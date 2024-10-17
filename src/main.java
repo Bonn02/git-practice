@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello World");
         Cat cat = new Cat();
         cat.jump();
+        cat.meow();
     }
 }
